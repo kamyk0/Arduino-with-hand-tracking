@@ -1,7 +1,7 @@
 packages for python:
   pip install opencv-python python-math mediapipe numpy TIME-python
 
-Android code is already for servo not for leds if u want code showed on reddit dm me 
+Arduino code is already for servo not for leds if u want code showed on reddit dm me 
   Servos pinout:
     thumb = 3
     index = 5
